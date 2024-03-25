@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/theme">
+    <file>global-graphics/Null.svg</file>
+    <file>global-graphics/bullet-symbolic.svg</file>
+    <file>global-graphics/list-remove-symbolic.svg</file>
+    <file>global-graphics/object-select-symbolic.svg</file>
+    <file>global-graphics/object-select-symbolic@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-active.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-active@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-backdrop.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-hover.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close-hover@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-close@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-active.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-active@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-backdrop.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-hover.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-maximize-hover@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-active.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-active@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-backdrop.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-hover.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-minimize-hover@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-active.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-active@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-backdrop.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-hover.svg</file>
+    <file>theme-graphics/title-buttons/titlebutton-restore-hover@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-active.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-active@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-backdrop.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-hover.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close-hover@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-close@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-active.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-active@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-backdrop.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-hover.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-maximize-hover@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-active.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-active@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-backdrop.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-hover.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-minimize-hover@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-active.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-active@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-backdrop.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-backdrop@2.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-hover.svg</file>
+    <file>theme-graphics/title-buttons-dark/titlebutton-restore-hover@2.svg</file>
+    <file>theme-colors/colors-dark.css</file>
+    <file>theme-colors/colors-light.css</file>
+    <file>main-dark.css</file>
+    <file>main-light.css</file>
+    <file>gtk.css</file>
+    <file>gtk-dark.css</file>
+  </gresource>
+</gresources> 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
